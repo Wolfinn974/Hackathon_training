@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Row
+comment0.text=\n\ D\u00E9crivez\ votre\ classe\ Row\ ici.\n\n\ @author\ Wolfin\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\n
+comment1.params=id\ gender\ sport\ style\ color\ budget
+comment1.target=Row(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+numComments=2

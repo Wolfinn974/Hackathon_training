@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Analyzer
+comment1.params=rows\ field
+comment1.target=java.util.Map\ valueCounts(java.util.List,\ java.lang.String)
+comment2.params=r\ field
+comment2.target=java.lang.String\ getField(Row,\ java.lang.String)
+comment3.params=rows
+comment3.target=java.util.Map\ averageBudgetByStyle(java.util.List)
+comment4.params=rows\ field
+comment4.target=java.util.List\ unique(java.util.List,\ java.lang.String)
+numComments=5

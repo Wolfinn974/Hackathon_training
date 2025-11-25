@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ComboAnalyzer
+comment1.params=rows
+comment1.target=java.util.List\ topCombos(java.util.List)
+numComments=2
