@@ -1,0 +1,21 @@
+id,sport,style,color,cut,price,influence
+1,boxing,techwear,black,oversized,120,Rodtang
+2,muay thai,techwear,red,fit,45,Stamp Fairtex
+3,running,streetwear,white,oversized,60,None
+4,running,performance,blue,fit,140,Eliud Kipchoge
+5,jiu jitsu,minimalist,black,fit,75,Mikey Musumeci
+6,jiu jitsu,casual,navy,oversized,55,None
+7,yoga,minimalist,beige,crop,50,None
+8,yoga,performance,lilac,fit,80,None
+9,boxing,casual,black,oversized,65,Amanda Serrano
+10,muay thai,streetwear,grey,oversized,70,Superbon
+11,climbing,outdoor,green,loose,90,None
+12,climbing,techwear,black,fit,110,None
+13,cycling,performance,yellow,fit,130,None
+14,cycling,techwear,black,slim,160,None
+15,basketball,streetwear,purple,oversized,85,LeBron James
+16,fitness,sporty,pink,fit,45,None
+17,dance,streetwear,red,crop,50,None
+18,hiking,outdoor,brown,loose,95,None
+19,tennis,preppy,white,fit,100,None
+20,swimming,minimalist,blue,slim,35,None
